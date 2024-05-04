@@ -1,2 +1,4 @@
 build/
 wasm-build/
+webassembly-build/
+.idea/
